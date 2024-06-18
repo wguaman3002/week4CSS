@@ -1,0 +1,33 @@
+p {
+    text-align: right;
+    color: firebrick;
+}
+
+#myarticle {
+    text-align: left;
+    color: cadetblue;
+}
+
+.colorbox {
+    text-align: right;
+    color: chartreuse;
+}
+
+h1, p {
+    text-align: right;
+    color: limegreen;
+}
+
+*  {
+    text-align: center;
+    color: chocolate;
+    position: relative;
+    font-family: Manrope, Geneva, Tahoma, sans-serif;
+}
+
+.fixed {
+    position: fixed;
+    padding: 50px;
+    background-color: black;
+}
+
